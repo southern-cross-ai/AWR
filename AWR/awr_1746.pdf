@@ -1,0 +1,6 @@
+<span style="color: #A00; font-weight: bold;">Html2Pdf Error [1]</span><br />
+The html tag [dl] is not known by Html2Pdf. You can create it and push it on the Html2Pdf GitHub project.<br />
+ File: /home/awregister/public_html/wp-content/themes/awr/ajax/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php<br />
+ Line: 1441<br />
+ Invalid Tag: dl<br />
+ Html Line: 220<br />

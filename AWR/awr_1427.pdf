@@ -1,0 +1,6 @@
+<span style="color: #A00; font-weight: bold;">Html2Pdf Error [1]</span><br />
+Tags are closed in a wrong order for [p]<br />
+ File: /home/awregister/public_html/wp-content/themes/awr/ajax/html2pdf/vendor/spipu/html2pdf/src/Parsing/Html.php<br />
+ Line: 262<br />
+ Invalid Tag: p<br />
+ Html Line: 206<br />

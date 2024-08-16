@@ -1,0 +1,4 @@
+<span style="color: #A00; font-weight: bold;">Html2Pdf Error [4]</span><br />
+The content of the TD tag does not fit on only one page<br />
+ File: /home/awregister/public_html/wp-content/themes/awr/ajax/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php<br />
+ Line: 5674<br />
