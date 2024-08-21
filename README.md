@@ -33,6 +33,26 @@ This repo uses `id`s to build URLs to retrieve the `.pdf` resources. You may cam
 Under `AWR` directory, there are **20556** `awr_[id].pdf` files collected from [AWR Database](https://www.womenaustralia.info/entries/), where `id` serves as the identifier for each document.
 
 
+## Download
+
+We suggest you to walk through `utils/download.ipynb` to explore how we build URLs to retrieve and download the PDF resources.
+
+You can also use `python3 utils/download.py` to download the PDF resources:
+```bash
+$ python3 utils/download.py --help                                                  
+usage: download.py [-h] --min_id MIN_ID --max_id MAX_ID --save_path SAVE_PATH
+
+Download PDF resources from AWR
+
+options:
+  -h, --help            Show all help messages.
+  --min_id MIN_ID       Define the start ID for the search range.
+  --max_id MAX_ID       Define the end ID for the search range.
+  --save_path SAVE_PATH
+                        The path to save the downloaded PDF files.
+```
+
+
 ## License
 
 The repo is licensed under [MIT](https://opensource.org/license/mit).
